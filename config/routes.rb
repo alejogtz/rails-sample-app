@@ -9,5 +9,7 @@ Rails.application.routes.draw do
   #   get '/help', to: 'static_pages#help'
   #   root_path -> '/'
   #   root_url -> 'http://www.example.com/'
+  
+  resources :users
 
 end
