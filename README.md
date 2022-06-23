@@ -31,11 +31,11 @@ You can find the sample app on heroku https://railstuto-sample-app.herokuapp.com
 
 **Edit profile**
 
-![Microposts](./app/assets/images/profile.gif)
+![profile](./app/assets/images/profile.gif)
 
-**Edit profile**
+**Forgot password**
 
-![Microposts](./app/assets/images/forgotpass.gif)
+![forgotpass](./app/assets/images/forgotpass.gif)
 
 
 
