@@ -31,6 +31,31 @@ To deploy this project run
 
 You can find the sample app on heroku https://railstuto-sample-app.herokuapp.com
 
+**Users**
+
+![Users](./app/assets/images/users.gif)
+
+**Microposts**
+
+![Microposts](./app/assets/images/microposts.gif)
+
+**Edit profile**
+
+![Microposts](./app/assets/images/profile.gif)
+
+**Edit profile**
+
+![Microposts](./app/assets/images/forgotpass.gif)
+
+
+<style>
+    img {
+        max-width: 700px;
+        border: 3px solid black;
+    }
+</style>
+
+
 
 ## Usage/Examples
 
