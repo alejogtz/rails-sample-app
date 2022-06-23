@@ -7,9 +7,10 @@ Professional-grade sample application. Although the sample app will eventually h
 ## Features
 
 - Users: Signup, profile, edit profile, 
-- Signup, Login
-- Remember, forgot password, reset_password
-- Micropost: Feed, post, delete
+- Signup, Login, Restore password
+- Microposts: Feed, new post, delete post
+- Followers, Following
+- Follow, Unfollow actions
 
 
 ## Authors
@@ -21,9 +22,13 @@ Professional-grade sample application. Although the sample app will eventually h
 
 You can find the sample app on heroku https://railstuto-sample-app.herokuapp.com
 
-**Users**
+**New Account**
 
-![Users](./app/assets/images/users.gif)
+![NewAccount](./app/assets/images/users.gif)
+
+**Users List**
+
+![Users](./app/assets/images/listusers.gif)
 
 **Microposts**
 
@@ -37,6 +42,9 @@ You can find the sample app on heroku https://railstuto-sample-app.herokuapp.com
 
 ![forgotpass](./app/assets/images/forgotpass.gif)
 
+**Followers, Following**
+
+![followers](./app/assets/images/followers.gif)
 
 
 ## Usage/Examples
